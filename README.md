@@ -12,5 +12,5 @@
 
 -📓I'm a Information Systems student at Instituto Federal sudeste de Minas Gerais - Campus Juiz de Fora<br>
 -I love reading. I'm Fascinated with robotics, A.I, applied computer science and technology in general.<br>
--I also like testing software like Operating Systemm and algorithms.
+-I also like testing software like Operating Systems and algorithms.
 
