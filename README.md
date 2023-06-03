@@ -7,10 +7,11 @@
   <a href= "https://twitter.com/matheusSoranco" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" target="_blank"></a> 
 </div>
 
+<div>
 ### About Me
 
 -📓I'm a Information Systems student at Instituto Federal sudeste de Minas Gerais - Campus Juiz de Fora<br>
 -I love reading. I'm Fascinated with A.I, robotics, applied computer science and technology in general.<br>
 -I'm a author, A.I developer and data Engineer.<br>
 -I'm a Intern at Mercedes-Benz Brasil.<br>
-    
+<div>
