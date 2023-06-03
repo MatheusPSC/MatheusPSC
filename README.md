@@ -12,5 +12,6 @@
 
 -📓I'm a Information Systems student at Instituto Federal sudeste de Minas Gerais - Campus Juiz de Fora<br>
 -I love reading. I'm Fascinated with A.I, robotics, applied computer science and technology in general.<br>
--I'm a A.I developer and data Engineer.
--I'm a Intern at Mercedes-Benz Brasil
+-I'm a A.I developer and data Engineer.<br>
+-I'm a Intern at Mercedes-Benz Brasil.<br>
+    
