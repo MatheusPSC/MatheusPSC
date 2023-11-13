@@ -11,5 +11,6 @@
 -📓Information Systems student at Instituto Federal sudeste de Minas Gerais - Campus Juiz de Fora<br>
 -Fascinated with A.I, robotics, computer science<br>
 -Author, A.I developer and data Engineer.<br>
+-I'm specializing in Machine Learning, data science with python and cloud computing<br>
 -Intern at Mercedes-Benz Brasil.<br>
 <div>
