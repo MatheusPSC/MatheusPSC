@@ -1,5 +1,3 @@
-# 👋 Hi, I’m Matheus!
-
 <div> 
   <a href= "https://www.instagram.com/matheusoranco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheussoranco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -10,8 +8,8 @@
 <div>
 ### About Me
 
--📓I'm a Information Systems student at Instituto Federal sudeste de Minas Gerais - Campus Juiz de Fora<br>
--I love reading. I'm Fascinated with A.I, robotics, applied computer science and technology in general.<br>
--I'm a author, A.I developer and data Engineer.<br>
--I'm a Intern at Mercedes-Benz Brasil.<br>
+-📓Information Systems student at Instituto Federal sudeste de Minas Gerais - Campus Juiz de Fora<br>
+-Fascinated with A.I, robotics, computer science<br>
+-Author, A.I developer and data Engineer.<br>
+-Intern at Mercedes-Benz Brasil.<br>
 <div>
